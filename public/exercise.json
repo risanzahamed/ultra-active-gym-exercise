@@ -3,42 +3,42 @@
         "name": "Push-ups",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
         "age": "20 To 25",
-        "time": "19s",
+        "time": "19",
         "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg"
     },
     {
         "name": "Bent-over Row",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
         "age": "20 To 25",
-        "time": "10s",
+        "time": "10",
         "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg"
     },
     {
         "name": "Squats",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
         "age": "20 To 25",
-        "time": "25s",
+        "time": "25",
         "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg"
     },
     {
         "name": "Lunges",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
         "age": "20 To 25",
-        "time": "30s",
+        "time": "30",
         "img": "https://unsplash.com/photos/kxOi9NyhrSg"
     },
     {
         "name": "Abdominal Crunches",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
         "age": "20 To 25",
-        "time": "10s",
+        "time": "10",
         "img": "https://www.muscleandfitness.com/wp-content/uploads/2020/04/Man-Doing-Crunches-At-Home.jpg?quality=86&strip=all"
     },
     {
         "name": "Dumble",
         "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
         "age": "20 To 25",
-        "time": "60s",
+        "time": "60",
         "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg"
     }
     

@@ -11,7 +11,7 @@ const Exercise = (props) => {
             <h1>{name}</h1>
             <p>{description}</p>
             <h3>For Age : <span className='bold-text'>{age}</span></h3>
-            <h3>Time required : <span className='bold-text'>{time}</span></h3>
+            <h3>Time required : <span className='bold-text'>{time}s</span></h3>
             <button onClick={()=>props.clickExerciseTime(props.exercise)}>Add to list</button>
         </div>
     );
