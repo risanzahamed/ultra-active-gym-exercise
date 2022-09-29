@@ -1,45 +1,45 @@
 [
     {
         "name": "Push-ups",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
+        "description": "a physical exercise in which you lie flat with your face towards the floor and try to push up your body with arms which keeping your legs and back straight...",
         "age": "20 To 25",
         "time": "19",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg"
+        "img": "./pexels-ketut-subiyanto-4804333.jpg"
     },
     {
         "name": "Bent-over Row",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
+        "description": "The dumbbell row is a variation of the bent over row and an exercise used to build back muscle and strength...",
         "age": "20 To 25",
         "time": "10",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg"
+        "img": "./pexels-tima-miroshnichenko-5327571.jpg"
     },
     {
         "name": "Squats",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
+        "description": "squat is a position in which you are crouched with your knees bent and the backs of your feet almost touching your butt or an exercise in which you...",
         "age": "20 To 25",
         "time": "25",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg"
+        "img": "./pexels-victor-freitas-841130.jpg"
     },
     {
         "name": "Lunges",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
+        "description": "The lunge is a popular leg-strengthening exercise with a multitude of variations to add variety to your workout. In addition, varying your...",
         "age": "20 To 25",
         "time": "30",
-        "img": "https://unsplash.com/photos/kxOi9NyhrSg"
+        "img": "./pexels-anna-shvets-5067670 (1).jpg"
     },
     {
         "name": "Abdominal Crunches",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
+        "description": "Fold your arms on your chest and tighten your abdominal muscles. Raise your head and shoulders off of the floor. Hold for three deep breaths...",
         "age": "20 To 25",
         "time": "10",
         "img": "https://www.muscleandfitness.com/wp-content/uploads/2020/04/Man-Doing-Crunches-At-Home.jpg?quality=86&strip=all"
     },
     {
         "name": "Dumble",
-        "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Libero, voluptates eum quam tenetur labore minus cumque quis veniam officiis, suscipit iusto reiciendis fugiat eveniet, natus debitis assumenda quaerat? Sequi, laborum?",
+        "description": "a short bar with a weight on each end that you lift up and down to make your arm and shoulder muscles stronger...",
         "age": "20 To 25",
         "time": "60",
-        "img": "https://assets.adidas.com/images/h_840,f_auto,q_auto:sensitive,fl_lossy,c_fill,g_auto/1105dc0c9232477eb80dac7d000edc0c_9366/Steel_Metal_Bottle_600_ML_White_EX7306_01_standard.jpg"
+        "img": "./pexels-photo-3066334.jpeg"
     }
     
 ]

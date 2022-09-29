@@ -8,12 +8,6 @@ const Profile = ({ time }) => {
         timeTotal = timeTotal + parseInt((exercise.time))
     }  
     
-const Break = () =>{
-    let BreakTime = 0;
-    for(const Break of time){
-        BreakTime = BreakTime
-    }
-}
     
     return (
         <div>
