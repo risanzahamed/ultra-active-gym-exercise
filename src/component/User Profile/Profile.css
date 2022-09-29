@@ -1,0 +1,16 @@
+.user-name-image img{
+    width: 70px;
+    height: 70px;
+    border-radius: 100%;
+    padding-right: 20px;
+}
+.user-name-image h1{
+    font-size:25px;
+    font-weight: 500;
+}
+
+.user-name-image{
+    display: flex;
+    margin-bottom: 20px;
+
+}

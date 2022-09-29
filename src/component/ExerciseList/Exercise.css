@@ -1,0 +1,28 @@
+.exercise-card{
+    background-color: beige;
+    padding: 20px;
+    border-radius: 9px
+}
+
+.exercise-card h3{
+    font-weight: 500;
+    font-size: 18px
+}
+.exercise-card img{
+    width: 400px;
+    height: 200px;
+    border-radius: 9px;
+}
+
+.exercise-card button{
+    padding: 15px 30px;
+    border-radius: 9px;
+    border: none;
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+}
+
+.bold-text{
+    font-weight: 700;
+}
