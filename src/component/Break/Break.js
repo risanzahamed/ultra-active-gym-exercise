@@ -3,7 +3,7 @@ import React from 'react';
 const Break = () => {
     return (
         <div>
-            <h1>ami tumake</h1>
+            {/* <h1>ami tumake</h1> */}
         </div>
     );
 };

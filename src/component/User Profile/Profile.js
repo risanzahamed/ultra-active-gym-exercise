@@ -39,7 +39,7 @@ const Profile = ({ time }) => {
                         <h1>Exercise Details</h1>
                         <div className='exercise-time'>
                             <h1>Exercise time</h1>
-                            <p>{timeTotal}</p>
+                            <p>{timeTotal} seconds</p>
                         </div>
                         <div className='break-time'>
                             <h1>Break time</h1>
