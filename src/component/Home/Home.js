@@ -48,7 +48,8 @@ const Home = () => {
                     <li>Running on state change: validating input field</li>
                     <li>Running on state change: live filtering</li>
                     <li>Running on state change: trigger animation on new array value</li>
-                    </p>
+                    <li>Running on props change: update paragraph list on fetched API data update</li>
+                    <li>Running on props change: updating fetched API data to get BTC updated price</li></p>
             </div>
         </div>
     );
