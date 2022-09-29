@@ -4,7 +4,8 @@ import Profile from '../User Profile/Profile';
 import "./Home.css"
 
 const Home = () => {
-    
+    const [exercise, setExercise] = useState([])
+    const [time, setTime] = useState([])
 
     useEffect(() => {
         fetch("exercise.json")
