@@ -46,6 +46,8 @@ const Home = () => {
                 <h1>What is the use of useeffect without data load?</h1>
                 <p> <li>Running once on mount: fetch API data</li>
                     <li>Running on state change: validating input field</li>
+                    <li>Running on state change: live filtering</li>
+                    <li>Running on state change: trigger animation on new array value</li>
                     </p>
             </div>
         </div>
