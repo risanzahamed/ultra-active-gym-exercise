@@ -17,6 +17,7 @@ const Home = () => {
         const newTime = [...time, exercise];
         setTime(newTime)
     }
+
     return (
         <div>
             <div className='text-wrapper'>
@@ -36,7 +37,8 @@ const Home = () => {
                         ></Exercise>)
                     }
                 </div>
-                <Profile time={time}></Profile>
+                <Profile time={time} ></Profile>
+
             </div>
             <div className='questions'>
                 <h1>How react works?</h1>
